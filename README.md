@@ -3,11 +3,17 @@
 Hey there 👋
 
 💻 Aspiring AI/ML Engineer & MERN Stack Developer
+
 🚀 Building AI-powered applications and scalable MERN solutions
+
 🌱 Currently learning AI/ML, Advanced Backend Development & System Design
+
 🤝 Open to collaborating on Full-Stack, Open Source & AI/ML projects
+
 💬 Ask me about Java, JavaScript, React.js, Node.js, Express.js, MongoDB & DSA
+
 ⚡ Passionate about solving real-world problems through technology
+
 🚀 Always building. Always learning.
 
 
