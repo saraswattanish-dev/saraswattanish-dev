@@ -1,5 +1,14 @@
 # 💫 About Me:
-## 💫 About Me:<br><br>Hey there 👋<br><br>💻 Aspiring AI/ML Engineer & MERN Stack Developer<br><br>🚀 Passionate about building AI-powered and full-stack web applications<br><br>🔭 I’m currently building scalable MERN Stack applications and AI-powered solutions<br><br>🤝 I’m looking to collaborate on Full-Stack Development, Open Source, and AI/ML projects<br><br>🫱🏻‍🫲🏻 I’m looking for help with Cloud Computing, DevOps, and System Design<br><br>🌱 I’m currently learning Advanced Backend Development, AI/ML, and scalable web architectures<br><br>💬 Ask me about React.js, Node.js, Express.js, MongoDB, JavaScript, Java, and Data Structures & Algorithms<br><br>⚡ Fun fact: I love combining AI with modern web development to build software that solves real-world problems.<br><br>🚀 Always learning, always building.
+
+Hey there 👋
+
+💻 Aspiring AI/ML Engineer & MERN Stack Developer
+🚀 Building AI-powered applications and scalable MERN solutions
+🌱 Currently learning AI/ML, Advanced Backend Development & System Design
+🤝 Open to collaborating on Full-Stack, Open Source & AI/ML projects
+💬 Ask me about Java, JavaScript, React.js, Node.js, Express.js, MongoDB & DSA
+⚡ Passionate about solving real-world problems through technology
+🚀 Always building. Always learning.
 
 
 ## 🌐 Socials:
