@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-label="About and capabilities">
+<style>
+:root{color-scheme:dark}
+*{box-sizing:border-box}
+.bg{fill:#070b16}.card{fill:#0d1628;stroke:#247bff;stroke-opacity:.34}
+.white{fill:#f5f7fb}.muted{fill:#aab6cc}.blue{fill:#247bff}.red{fill:#ff354f}
+.small{font:600 18px Arial,sans-serif;letter-spacing:2px}
+.body{font:400 22px Arial,sans-serif}
+.title{font:800 58px Arial,sans-serif;letter-spacing:-1px}
+.mono{font:600 18px monospace;letter-spacing:1px}
+.fade{animation:fade 1s ease both}
+.float{animation:float 5s ease-in-out infinite}
+@keyframes fade{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+@media(prefers-reduced-motion:reduce){.fade,.float{animation:none}}
+</style>
+
+<rect width="100%" height="100%" rx="28" class="bg"/>
+<rect x="24" y="24" width="calc(100% - 48px)" height="calc(100% - 48px)" rx="24" class="card"/>
+<text x="72" y="105" class="small blue">ABOUT / CAPABILITIES</text>
+<text x="72" y="170" class="title white">BUILD • LEARN • SOLVE</text>
+<text x="72" y="225" class="body muted">A B.Tech AIML student focused on practical, user-centered software.</text>
+<g class="fade">
+<rect x="72" y="285" width="310" height="210" rx="20" fill="#101d33"/>
+<text x="100" y="335" class="small red">01</text>
+<text x="100" y="385" class="body white">AI / ML</text>
+<text x="100" y="425" class="body muted">AI-powered solutions</text>
+<text x="100" y="457" class="body muted">and intelligent products.</text>
+<rect x="410" y="285" width="310" height="210" rx="20" fill="#101d33"/>
+<text x="438" y="335" class="small red">02</text>
+<text x="438" y="385" class="body white">FULL STACK</text>
+<text x="438" y="425" class="body muted">Responsive MERN</text>
+<text x="438" y="457" class="body muted">applications &amp; APIs.</text>
+<rect x="748" y="285" width="310" height="210" rx="20" fill="#101d33"/>
+<text x="776" y="335" class="small red">03</text>
+<text x="776" y="385" class="body white">DSA / CS</text>
+<text x="776" y="425" class="body muted">Data structures, OOP</text>
+<text x="776" y="457" class="body muted">and problem solving.</text>
+</g>
+<text x="72" y="570" class="small blue">CURRENT FOCUS</text>
+<text x="72" y="620" class="body white">AI/ML • MERN • DSA • REAL-WORLD SOFTWARE</text>
+<text x="72" y="675" class="body muted">Hobbies section intentionally omitted as requested.</text>
+
+</svg>
